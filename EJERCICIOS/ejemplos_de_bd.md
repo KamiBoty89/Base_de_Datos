@@ -1,6 +1,6 @@
 Reseña la historia de SQL.
 
-<strong> Introducción </strong>
+Introducción
 
 El lenguaje de consulta estructurado (SQL) es un lenguaje de base de datos normalizado, utilizado por losdiferentes motores de bases de datos para realizar determinadas operaciones sobre los datos o sobre laestructura de los mismos. Pero como sucede con cualquier sistema de normalización hay excepcionespara casi todo; de hecho, cada motor de bases de datos tiene sus peculiaridades y lo hace diferente deotro motor, por lo tanto, el lenguaje SQL normalizado (ANSI) no nos servirá para resolver todos losproblemas, aunque si se puede asegurar que cualquier sentencia escrita en ANSI será interpretable porcualquier motor de datos.
 
@@ -23,3 +23,35 @@ Existen dos tipos de comandos SQL:
 •Los DML que permiten generar consultas para ordenar, filtrar y extraer datos de la base de datos.
 
 Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
+
+Un Sistema Gestor de Base de Datos (SGBD) o DataBase Managenent System (DBMS) es un sistema que permite la creación, gestión y administración de bases de datos, así como la elección y manejo de las estructuras necesarias para el almacenamiento y búsqueda de información del modo más eficiente posible.
+
+En la actualidad, existen multitud de SGBD y pueden ser clasificados según la forma en que administran los datos en:
+
+•Relacionales (SQL)
+•No relacionales (NoSQL)
+
+Sistemas Gestores de bases de datos Relacionales (SQL)
+Desde que se comenzó a usar el modelo de bases de datos relacionales, en 1970, ha ido sufriendo una serie de transformaciones hasta convertirse, hoy en día, en el modelo más utilizado para administrar bases de datos.
+
+Este modelo se basa fundamentalmente en establecer relaciones o vínculos entre los datos, imaginando una tabla aparte por cada relación existente con sus propios registros y atributos.
+
+Los principales Sistemas gestores de bases de datos relacionales (SGBD SQL) actualmente son:
+
+ ![image](https://user-images.githubusercontent.com/101414787/168116192-702bd1f8-dabc-4ab7-b9e1-b072c8c19609.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101414787/168116241-577d7cb2-9ef7-46fd-b6de-c797e5ba00df.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101414787/168116293-7813269d-fd4f-47d1-bedd-343f82e43751.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101414787/168116332-541bbe24-cd56-4104-bd95-5b9b256c5386.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101414787/168116374-c98ff6a1-c792-473e-839a-0baf49da34f2.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101414787/168116408-11ae685e-2eec-420b-b264-5bfaf5b1882c.png)
+
+
+
+
+
+
