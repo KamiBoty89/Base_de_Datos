@@ -52,6 +52,23 @@ Los principales Sistemas gestores de bases de datos relacionales (SGBD SQL) actu
 
 
 
+Sistemas Gestores de bases de datos No Relacionales (NoSQL)
+Una base de datos no relacional (NoSQL) es aquella base de datos que:
+
+•No requiere de estructuras de datos fijas como tablas
+•No garantiza completamente las características ACID
+•Escala muy bien horizontalmente.
+•Se utilizan en entornos distribuidos que han de estar siempre disponibles y operativos y que gestionan un importante volumen de datos.
+
+Para la administración de este tipo de bases de datos, actualmente los principales sistemas gestores de bases de datos (SGBD NoSQL) son:
+
+![image](https://user-images.githubusercontent.com/101414787/168116613-65a4aadf-3461-4588-81d4-68aced8651ef.png)
+
+![image](https://user-images.githubusercontent.com/101414787/168116633-fcf35df9-7a93-405b-b4a5-fc1c5ccb5c27.png)
+
+![image](https://user-images.githubusercontent.com/101414787/168116686-f600e724-1860-4c01-ad21-b17228751fb8.png)
+
+
 
 
 
