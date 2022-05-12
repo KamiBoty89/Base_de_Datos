@@ -1,6 +1,6 @@
 Reseña la historia de SQL.
 
-<b> Introducción
+<strong> Introducción </strong>
 
 El lenguaje de consulta estructurado (SQL) es un lenguaje de base de datos normalizado, utilizado por losdiferentes motores de bases de datos para realizar determinadas operaciones sobre los datos o sobre laestructura de los mismos. Pero como sucede con cualquier sistema de normalización hay excepcionespara casi todo; de hecho, cada motor de bases de datos tiene sus peculiaridades y lo hace diferente deotro motor, por lo tanto, el lenguaje SQL normalizado (ANSI) no nos servirá para resolver todos losproblemas, aunque si se puede asegurar que cualquier sentencia escrita en ANSI será interpretable porcualquier motor de datos.
 
