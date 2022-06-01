@@ -6,6 +6,10 @@
 ● Crea el script para la base de datos.
 Proveedores
 
+ ![image](https://user-images.githubusercontent.com/101414787/171336823-cb347dab-ac0a-424e-aed5-43d1e612de5b.png)
+
+
+
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
 la siguiente información:
 
@@ -29,3 +33,5 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+https://www.db-fiddle.com/f/uPwVYVBPSqw5WMncwiM8BF/0
