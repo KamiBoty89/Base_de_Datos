@@ -34,4 +34,4 @@ un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
 
-https://www.db-fiddle.com/f/uPwVYVBPSqw5WMncwiM8BF/0
+[https://www.db-fiddle.com/f/uPwVYVBPSqw5WMncwiM8BF/0](https://www.db-fiddle.com/f/uPwVYVBPSqw5WMncwiM8BF/1)
