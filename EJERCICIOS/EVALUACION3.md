@@ -9,9 +9,16 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+Un Data Warehouse es un almacén electrónico donde generalmente una empresa u organización mantiene una gran cantidad de información. Los datos de un data warehouse deben almacenarse de forma segura, fiable, fácil de recuperar y fácil de administrar.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![image](https://user-images.githubusercontent.com/101414787/171660905-ad9e6f47-7e1b-4984-840e-0dba1245c552.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![image](https://user-images.githubusercontent.com/101414787/171661636-c46db1e0-6fa6-40cb-a5db-915b9e0e5b6f.png)
 
 
 ## Práctica 7
@@ -22,6 +29,7 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+https://www.db-fiddle.com/f/6GM5R33SYqH8uPEtJsTJjP/1
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
