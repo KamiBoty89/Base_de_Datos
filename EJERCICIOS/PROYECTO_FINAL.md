@@ -6,7 +6,7 @@
 ● Crea el script para la base de datos.
 Proveedores
 
- ![image](https://user-images.githubusercontent.com/101414787/171336823-cb347dab-ac0a-424e-aed5-43d1e612de5b.png)
+ ![image](https://user-images.githubusercontent.com/101414787/171650847-293da0a0-1b48-4d23-a123-5c6275c4f551.png)
 
 
 
