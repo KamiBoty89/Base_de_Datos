@@ -1,5 +1,6 @@
 
-7. Triggers en SQL
+## 7. Triggers en SQL
+
 1.- Qué es in TRIGGER?
 
 2.- Cuál es la función de un TRIGGER?
