@@ -25,7 +25,7 @@ Un Data Warehouse es un almacén electrónico donde generalmente una empresa u o
 ### Funciones en SQL
 Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la gestión
 
-https://www.db-fiddle.com/f/6GM5R33SYqH8uPEtJsTJjP/3
+https://www.db-fiddle.com/f/6GM5R33SYqH8uPEtJsTJjP/4
 
 Ejercicio:
 
